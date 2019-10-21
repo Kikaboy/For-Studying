@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kikaman\\project\\Classwork4\\Classwork4\\Classwork4.csproj": {}
+    "C:\\Users\\Kikaman\\project\\Classwork3\\Classwork3\\Classwork3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kikaman\\project\\Classwork4\\Classwork4\\Classwork4.csproj": {
+    "C:\\Users\\Kikaman\\project\\Classwork3\\Classwork3\\Classwork3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kikaman\\project\\Classwork4\\Classwork4\\Classwork4.csproj",
-        "projectName": "Classwork4",
-        "projectPath": "C:\\Users\\Kikaman\\project\\Classwork4\\Classwork4\\Classwork4.csproj",
+        "projectUniqueName": "C:\\Users\\Kikaman\\project\\Classwork3\\Classwork3\\Classwork3.csproj",
+        "projectName": "Classwork3",
+        "projectPath": "C:\\Users\\Kikaman\\project\\Classwork3\\Classwork3\\Classwork3.csproj",
         "packagesPath": "C:\\Users\\Kikaman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kikaman\\project\\Classwork4\\Classwork4\\obj\\",
+        "outputPath": "C:\\Users\\Kikaman\\project\\Classwork3\\Classwork3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kikaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
