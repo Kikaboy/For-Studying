@@ -1,5 +1,0 @@
-C:\Users\Kikaman\source\repos\Условные операторы 3\Условные операторы 3\bin\Debug\Условные операторы 3.exe.config
-C:\Users\Kikaman\source\repos\Условные операторы 3\Условные операторы 3\bin\Debug\Условные операторы 3.exe
-C:\Users\Kikaman\source\repos\Условные операторы 3\Условные операторы 3\bin\Debug\Условные операторы 3.pdb
-C:\Users\Kikaman\source\repos\Условные операторы 3\Условные операторы 3\obj\Debug\Условные операторы 3.exe
-C:\Users\Kikaman\source\repos\Условные операторы 3\Условные операторы 3\obj\Debug\Условные операторы 3.pdb

@@ -1,6 +1,0 @@
-C:\Users\Kikaman\source\repos\Условные операторы 1\Условные операторы 1\bin\Debug\Условные операторы 1.exe.config
-C:\Users\Kikaman\source\repos\Условные операторы 1\Условные операторы 1\bin\Debug\Условные операторы 1.exe
-C:\Users\Kikaman\source\repos\Условные операторы 1\Условные операторы 1\bin\Debug\Условные операторы 1.pdb
-C:\Users\Kikaman\source\repos\Условные операторы 1\Условные операторы 1\obj\Debug\Условные операторы 1.csprojAssemblyReference.cache
-C:\Users\Kikaman\source\repos\Условные операторы 1\Условные операторы 1\obj\Debug\Условные операторы 1.exe
-C:\Users\Kikaman\source\repos\Условные операторы 1\Условные операторы 1\obj\Debug\Условные операторы 1.pdb
