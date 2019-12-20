@@ -1,0 +1,5 @@
+C:\Users\Kikaman\source\repos\Условные операторы 4\Условные операторы 4\bin\Debug\Условные операторы 4.exe.config
+C:\Users\Kikaman\source\repos\Условные операторы 4\Условные операторы 4\bin\Debug\Условные операторы 4.exe
+C:\Users\Kikaman\source\repos\Условные операторы 4\Условные операторы 4\bin\Debug\Условные операторы 4.pdb
+C:\Users\Kikaman\source\repos\Условные операторы 4\Условные операторы 4\obj\Debug\Условные операторы 4.exe
+C:\Users\Kikaman\source\repos\Условные операторы 4\Условные операторы 4\obj\Debug\Условные операторы 4.pdb
