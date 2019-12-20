@@ -14,19 +14,19 @@ namespace Условные_операторы_4
             {
                 Console.WriteLine("Введите значени х");
                 var x = int.Parse(Console.ReadLine());
-                if (x < 0)
+                if (Math.Sin(x) < 0)
                 {
                     var y = (-Math.Cos(x));
                     Console.WriteLine("Значение функции равно {0}", y + "\n");
                 }
-                if (x > 0)
+                if (Math.Sin(x) > 0)
                 {
                     var y = Math.Cos(x);
                     Console.WriteLine("Значение функции равно {0}", y + "\n");
                 }
                 if (x == 0)
                 {
-                    var y = (x / Math.PI);
+                    var y = (Math.Sin(x) / Math.PI);
                     Console.WriteLine("Значение функции равно {0}", y + "\n");
                 }
             }
