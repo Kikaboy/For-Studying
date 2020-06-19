@@ -8,3 +8,13 @@ C:\Users\Kikaman\source\repos\Game15\obj\Debug\Game15.csproj.GenerateResource.ca
 C:\Users\Kikaman\source\repos\Game15\obj\Debug\Game15.csproj.CoreCompileInputs.cache
 C:\Users\Kikaman\source\repos\Game15\obj\Debug\Game15.exe
 C:\Users\Kikaman\source\repos\Game15\obj\Debug\Game15.pdb
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\bin\Debug\Game15.exe.config
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\bin\Debug\Game15.exe
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\bin\Debug\Game15.pdb
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\obj\Debug\Game15.csprojAssemblyReference.cache
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\obj\Debug\Game15.FormGame15.resources
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\obj\Debug\Game15.Properties.Resources.resources
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\obj\Debug\Game15.csproj.GenerateResource.cache
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\obj\Debug\Game15.csproj.CoreCompileInputs.cache
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\obj\Debug\Game15.exe
+C:\Users\Kikaman\Documents\GitHub\For-Studying\Game15\obj\Debug\Game15.pdb
